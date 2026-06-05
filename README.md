@@ -64,7 +64,7 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Cash Flow Components](./visuals/cash\_flow\_components.png)
+!\[Cash Flow Components](visuals/cash\_flow\_components.png)
 
 
 
@@ -72,7 +72,7 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Ending Cash Balance](./visuals/ending\_cash\_balance.png)
+!\[Ending Cash Balance](visuals/ending\_cash\_balance.png)
 
 
 
@@ -80,7 +80,7 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Working Capital](./visuals/working\_capital\_trend.png)
+!\[Working Capital](visuals/working\_capital\_trend.png)
 
 
 
@@ -88,7 +88,7 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Liquidity Runway](./visuals/liquidity\_runway\_trend.png)
+!\[Liquidity Runway](visuals/liquidity\_runway\_trend.png)
 
 
 
@@ -96,7 +96,7 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Forecast](./visuals/operating\_cash\_flow\_forecast.png)
+!\[Forecast](visuals/operating\_cash\_flow\_forecast.png)
 
 
 
@@ -104,5 +104,5 @@ The objective is to provide visibility into working capital runway and support p
 
 
 
-!\[Future Forecast](./visuals/future\_cash\_flow\_forecast.png)
+!\[Future Forecast](visuals/future\_cash\_flow\_forecast.png)
 
